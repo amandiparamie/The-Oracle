@@ -1,6 +1,8 @@
 # 🎬 The Oracle: AI Cinematic Forecaster
 
-The Oracle is a full stack Web Application that utilizes a Random Forest Classifier to predict the commercial success of a movie based on historical IMDb data. The project features a high end, minimalist interface and a self healing data pipeline.
+**The Oracle** is a full stack Web Application that utilizes a **Random Forest Classifier** to predict the commercial success of a movie based on historical IMDb data. The project features a high end, minimalist interface and a self healing data pipeline.
+
+---
 
 ## 🚀 Technical Stack
 
@@ -27,6 +29,18 @@ The model defines a **"SUCCESS"** through a strict dual-threshold logic:
 
 ## ✨ Key Features
 
-* **Self-Healing Pipeline:** The backend automatically detects column name variations in the CSV (e.g., mapping "Revenue" to "Gross") and uses smart fallbacks if data is missing.
+* **Self-Healing Pipeline:** The backend automatically detects column name variations in the CSV and uses smart fallbacks if data is missing.
 * **Luxury UI:** A cinematic dark-themed interface with gold accents, responsive glassmorphic cards, and smooth CSS animations.
 * **Decoupled Architecture:** Frontend and Backend are hosted independently, allowing for efficient scaling of the ML model.
+
+---
+
+## 📸 Interface Preview
+
+<p align="center">
+  <img width="100%" alt="The Oracle Home Screen" src="https://github.com/user-attachments/assets/d638d918-2d75-4aee-919d-b025a7f93b03" />
+</p>
+
+<p align="center">
+  <img width="100%" alt="The Oracle Prediction Result" src="https://github.com/user-attachments/assets/dd00ce42-c09a-41c3-a7bf-349855bf6e64" />
+</p>
