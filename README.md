@@ -1,6 +1,6 @@
 # 🎬 The Oracle: AI Cinematic Forecaster
 
-**The Oracle** is a full stack Web Application that utilizes a **Random Forest Classifier** to predict the commercial success of a movie based on historical IMDb data. The project features a high end, minimalist interface and a self healing data pipeline.
+The Oracle is an intelligent web application designed to forecast whether a movie will be a hit by analyzing industry data like audience ratings and runtimes. It functions through a smart "Random Forest" brain that learns from vast cinematic datasets to make its predictions. To provide a premium user experience, the tool features a sleek, gold accented interface built with modern web frameworks that ensure the site is fast and responsive.
 
 ---
 
